@@ -1,0 +1,610 @@
+* {
+
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+.main1 {
+    width: 100%;
+        height: 12vh;
+    background-color: white;
+    position: fixed;
+}
+
+.a1 {
+    display: flex;
+}
+
+.left {
+    width: 60%;
+    text-align: center;
+}
+
+.right {
+    width: 50%;
+    margin-right: 100px;
+
+}
+
+.right ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin: 35px;
+
+
+}
+
+.right li {
+    margin-right: 50px;
+    font-size: smaller;
+    
+
+}
+
+
+.main2 {
+    width: 100%;
+    height: 70vh;
+    background-image: linear-gradient(rgba(196, 194, 194, 0.5), rgba(0, 0, 0, 0.5)), url(images/slider/cloud.png);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    
+}
+
+.main3 {
+
+    width: 100%;
+
+
+    background-color: #323A45;
+    height: 100vh;
+    
+
+}
+
+.new1 {
+    width: 100%;
+    text-align: center;
+    color: white;
+
+}
+
+.new1 h1 {
+    padding-top: 20px;
+}
+
+.new1 hr{
+    margin: auto;
+    width: 65%;
+    background-color: red;
+    border: 1px solid black;
+    
+}
+.new1 h5 {
+    padding-top:  20px;
+}
+
+.new1 p {
+    padding-top: 20px;
+
+}
+
+.main3 img {
+    margin-left: 400px;
+}
+
+.main4 {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(rgba(179, 105, 149, 0.70), rgba(179, 105, 149, 0.70)), url(images/parlex.png);
+
+}
+
+
+
+.btn1 {
+    background-color: transparent;
+    border: 2px solid#fff;
+    color: #fff;
+    height: 60px;
+    width: 140px;
+    border-radius: 5px;
+    margin-top: 30px;
+
+}
+
+.btn2 {
+    width: 140px;
+    height: 60px;
+    color: #fff;
+    background-color: #223C4B;
+    border: 5px solid #223C4B;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.left1 {
+    color: #d6d6d6;
+}
+
+
+.main5 {
+    width: 100%;
+    background-color: #333;
+    height: 30vh;
+    float: left;
+    height: 30vh;
+    color: white;
+}
+
+.left3 h3 {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+    
+}
+
+.container12 {
+    width: 70%;
+    margin: auto;
+    border: 2px solid white;
+    display: flex;
+    height: 20vh;
+    margin-top: 50px;
+}
+.btn3{
+
+    margin-top: 60px;
+    padding-left: 80px;
+    
+}
+.left3 p {
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+.main6 {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(211, 15, 15, 0.7), rgba(179, 105, 149, 0.70)), url(images/parlex.png);
+    padding-bottom: 20px;
+    background-attachment: fixed;
+background-size: cover;
+}
+
+
+.old1 h1 {
+
+
+    text-align: center;
+    padding-bottom: 20px;
+
+
+}
+
+.old1 p {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.old1 h5 {
+
+    text-align: center;
+}
+.container5{
+    width: 60%;
+    margin: auto;
+    padding-top: 30px;
+    
+    text-align: center;
+    
+}
+
+.old2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.xyz1 h3{
+    color: white;
+    padding-top: 20px;
+}
+
+.main7{
+    width: 100%;
+    background-color: #00c788;
+    height: 80vh;
+    
+
+
+}
+.text1 h1{
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+    
+}
+.text1 p{
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+
+
+.container7{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+    
+
+}
+.container7 h3{
+    width: 100%;
+    color: white;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.container7 p{
+    width: 100%;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+   
+}
+
+.main8 {
+    width: 100%;
+    text-align: center;
+    background-image: linear-gradient(rgba(72, 207, 173, 0.99), rgba(72, 207, 173, 0.78)),url(images/parlex.png);
+    height: 120vh;
+    
+    
+}
+.type1 h1 {
+    width: 100%;
+    padding-top: 40px;
+    color: white;
+
+
+}
+
+.type1 p{
+
+    width: 100%;
+    margin-top: 30px;
+    color: white;
+    font-size: smaller;
+
+}
+.container8 {
+    
+    
+    
+    width: 100%;
+    margin: auto;
+    padding-top: 40px;
+    
+    
+    
+}
+.type2{
+    display: flex;
+    
+ 
+ 
+}
+.ros{
+    width:40%;
+    margin: auto;
+}
+.def img{
+    border-radius: 10px;
+    height: 20vh;
+    width: 30vh;
+    margin: 10px;
+    border: 5px solid white;
+    
+}
+
+.main9{
+    width: 100%;
+    text-align: center;
+    background-color: #00b8b1;
+    height: 100vh;
+}
+
+.bean1 h1{
+    width: 100%;
+    font-size: 35px;
+    padding-top: 50px;
+    color: white;
+
+}
+.bean1 p{
+    width: 100%;
+    padding-top: 40px;
+    color: white;
+
+
+}
+
+
+.han {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+
+
+}
+.per1{
+    background-color: #ffce54;
+}
+.per2 {
+    background-color: #ed5565;
+}
+
+.per3 {
+    background-color: #a0d468;
+}
+
+.per4 {
+    background-color: #fc6e51;
+}
+.bean2 {
+    width: 220px;
+    margin-top: 30px;
+    font-size: small;
+    
+    border: 2px solid yellow;
+    height: 350px;   
+    margin: 20px;
+    
+
+}
+
+.bean2 h5{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.bean2 h4{
+    width: 100%;
+    color: white;
+}
+
+.bean2 p{
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: white;
+    
+}
+
+.but4 button{
+    background-color: #ffce54;
+    margin: 15px;
+}
+.but5 button{
+    background-color: #ed5565;
+    margin: 15px;
+}
+
+.but6 button{
+    background-color: #a0d468;
+    margin: 15px;
+}
+
+.but7 button{
+    background-color: #fc6e51;
+    margin: 15px;
+    
+}
+.main10{
+    width: 100%;
+    text-align: center;
+    background-image: linear-gradient(rgba(51, 61, 58, 0.7), rgba(14, 20, 18, 0.78)),url(images/team.png);
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.soft1{
+    width: 100%;
+    color: white;
+}
+.soft1 hr{
+    width: 65%;
+    margin: auto;
+    
+
+    
+}
+
+.soft1 h1{
+    width: 100%;
+    padding-top: 20px;
+}
+
+.soft1 h5{
+    width: 100%;
+    padding-top: 40px;
+    
+}
+
+.container10{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.real {
+    border: 2px solid transparent;
+    width: 250px;
+    height: 400px;
+    background-color: rgba(72, 207, 173, 0.68);
+   
+    
+    margin: 30px;
+
+}
+.real1 {
+    background-color: white;
+    height: 20vh;
+
+}
+.real1 h3{
+
+    width: 100%;
+    padding-top: 20px;
+}
+.real1 h5{
+    width: 100%;
+    padding-top: 30px;
+}
+.real2 {
+    background-color: #b3b9bf;
+    height: 53px;
+}
+
+.main11{
+    width: 100%;
+    
+    
+}
+.solid img{
+   
+    width: 10%;
+    margin: 30px;
+}
+.solid{
+    text-align: center;
+    
+}
+
+.main12{
+    width: 100%;
+    background-color: #ffce54;
+    height: 180vh;
+    text-align: center;
+}
+
+.thing hr{
+    margin: auto;
+    width: 59%;
+    margin-top: 10px;
+    padding-right: 85px;
+}
+
+.thing h5{
+    width: 100%;
+    padding-top: 25px;
+    color: white;
+}
+.thing h1{
+    width: 100%;
+    padding-top: 60px;
+    color: white;
+    font-size: x-large;
+    
+}
+
+
+
+.container12345{
+    width: 70%;
+    margin: auto;
+    padding-top: 50px;
+    
+}
+.thing2 {
+    float: left;
+    width: 100%;
+    text-align: left;
+    margin-left: 35px;
+}
+
+
+.thing3{
+    width: 90%;
+    height: 30px
+}
+.thing4{
+    width: 90%;
+    height: 40px;
+}
+.thing2 button{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 70px;
+    justify-content: center;
+    padding-top: 7px;
+    
+}
+
+.icon122{
+    float: left;
+    margin-left: 100px;
+    padding-top: 33%;
+    color: white;
+}
+
+.icon12 i{
+    font-size: 50px;
+    padding: 30px;
+}
+
+.icon12 h2{
+padding: 10px;
+}
+.main13{
+    width: 100%;
+    height: 50vh;
+    background-image: linear-gradient(rgba(0,0,0,0.89), rgba(0,0,0,0.89)), url(images/fotterback.png);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.sts{
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.sts1{
+    width: 100%;
+    text-align: center;    
+    padding-top: 30px;
+    
+    
+    
+}
+.container13{
+    width: 100%;
+}
+.stc2{
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 18px;
+}
+.stc2 h1{
+    width: 100%;
+    font-size: small;
+    
+}
